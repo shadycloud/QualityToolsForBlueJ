@@ -6,7 +6,7 @@ for development and maintenance of the _Quality Tools for BlueJ_ software produc
 * [Coding Convention Guide](/ConventionGuide.md#Coding-Convention-Guide)
 * [Build Environment](/ConventionGuide.md#Build-Environment)
 
- 
+_____ 
 ## Agile Principles
 
 ### Working Software
@@ -42,7 +42,7 @@ Tests associated with successful implementation remains in the code base as _reg
 
 (Note: Test coverage tools may facilitate _tracing forward_ from a test to code that the test is intended to verify.)
 
-
+_____
 ## Coding Convention Guide
 
 ### Style Convention Precedence and References
@@ -64,7 +64,7 @@ If a topic is not covered by any guides, use best judgement and consider opening
 - Multiple authors are indicated using multiple @author tags, one tag per line, one author per tag.
 - Where practicable, style conventions are embodied in configuration files for the [Checkstyle](https://checkstyle.sourceforge.io) tool.
 
-
+_____
 ## Build Environment
 
 The following tools are established as comprising and contributing to the build environment for the QT4BJ project.
@@ -96,6 +96,7 @@ TODO: add overview and external links
 #### SpotBugs
 TODO: add overview and external links
 
+_____
 _The following tools are under consideration for inclusion in the QT4BJ build environment._
 #### Travis CI
 TODO: add overview and external links
