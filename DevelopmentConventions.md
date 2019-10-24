@@ -84,18 +84,19 @@ TODO: add overview and external links
 ### Design Complexity Assessment
 #### JaCoCo
 TODO: add overview and external links
-
-### Source Code Style Adherence
+ 
+ 
+### Source Code Shortcoming Identification
 #### Checkstyle
 TODO: add overview and external links
 
-### Source Code Shortcoming Identification
 #### PMD
 TODO: add overview and external links
+
 #### SpotBugs
 TODO: add overview and external links
 
-The following tools are under consideration for inclusion in the QT4BJ build environment.
+_The following tools are under consideration for inclusion in the QT4BJ build environment._
 #### Travis CI
 TODO: add overview and external links
 #### OpenClover
