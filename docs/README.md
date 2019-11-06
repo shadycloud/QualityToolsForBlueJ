@@ -9,5 +9,4 @@ Development and maintenance of a single BlueJ extension that
 - facilitates maintenance of the functionality of the extension with future version of the tools, BlueJ, and Java; and
 - provides a smooth path for the addition of new quality assessment tools.
 
-
 Official Project Repository: https://github.com/MetroCS/QualityToolsForBlueJ
