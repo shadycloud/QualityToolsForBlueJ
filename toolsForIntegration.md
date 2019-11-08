@@ -57,7 +57,7 @@ Most commonly used whenever running unit tests to see what percentage of lines w
 * Over 20 built-in Code metrics (are you looking at methods, branches, statements, etc) and the ability to even make custom metrics
 * Variety of ways to create reports, including PDF and TEXT files!
 * Provides cross-report linking and can collect historical data for a given project
-* Dedicated support for Spock (Unlike JaCoCo
+* Dedicated support for Spock (Unlike JaCoCo).
 * **BUT** Unlike JaCoCo, Open clover has to be integrated with the build and be recompiled with the code, making it more intrusive/harder to set up
 
 ## [Cobertura](https://cobertura.github.io/cobertura/)
